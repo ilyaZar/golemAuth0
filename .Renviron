@@ -1,7 +1,4 @@
-name: golemAuth0
-remote_url: ''
-auth0_config:
-  api_url: https://dev-o650qsvbd0og4l53.eu.auth0.com
-  credentials:
-    key: MERBPbcee3JIhtTCH8vecQtBpaZwGFmq
-    secret: X3zHF14kqRTJDQDTs2DQSjl9-eP6U7BmTnAfyjusZCUfCYlMsJW4sV24F70h6k3b
+R_LIBS_USER=~/Dropbox/libraries/R/4.0
+AUTH0_USER=dev-o650qsvbd0og4l53.eu
+AUTH0_KEY=MERBPbcee3JIhtTCH8vecQtBpaZwGFmq
+AUTH0_SECRET=X3zHF14kqRTJDQDTs2DQSjl9-eP6U7BmTnAfyjusZCUfCYlMsJW4sV24F70h6k3b
