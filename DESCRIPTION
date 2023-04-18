@@ -5,6 +5,7 @@ Authors@R: person('AUTHOR_FIRST', 'AUTHOR_LAST', email = 'AUTHOR@MAIL.COM', role
 Description: PKG_DESC.
 License: MIT + file LICENSE
 Imports: 
+    auth0,
     config (>= 0.3.1),
     golem (>= 0.4.0),
     pkgload,
